@@ -1,1 +1,1 @@
-# react-firebase-chat
+# Lama Dev Chat App Starter template
